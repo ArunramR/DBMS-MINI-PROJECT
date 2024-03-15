@@ -57,6 +57,7 @@ For any issues or queries, please feel free to raise an issue or contact the pro
 ### Contributor:
 - [ARUN RAM R](https://github.com/ArunramR)
 - [stuckpixel0](https://github.com/stuckpixel0)
+- [Victor Ikechukwu Agughasi](https://github.com/Victor-Ikechukwu)
 
 ## Happy TodoListing!
 
