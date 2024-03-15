@@ -36,7 +36,7 @@ Welcome to TodoList-in-PHP! This is a simple todo list application built using P
 ### Project Structure:
 - `login.php`: Handles user login.
 - `logout.php`: Handles user logout.
-- `newusers.php`: Allows new users to register.
+- `newuser.php`: Allows new users to register.
 - `database.php`: Contains database connection settings and functions.
 - `todo.php`: Manages CRUD operations for todo tasks.
 - `valid.php`: Validates user inputs and performs server-side validation.
