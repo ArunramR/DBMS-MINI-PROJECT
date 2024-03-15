@@ -44,7 +44,6 @@ Welcome to TodoList-in-PHP! This is a simple todo list application built using P
 - `create_database.sql`: SQL script for creating the necessary database tables.
 - `changepassword.php`: Allows users to change their account passwords.
 - `adduser.php`: Contains functionality for adding new users.
-- Other PHP files for task management and user account operations.
 
 ### Additional Notes:
 - Ensure that your MySQL server is running before accessing the application.
